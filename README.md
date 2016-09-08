@@ -1,8 +1,8 @@
 # CS7680 writeups & minutes
 
-This is the repo for the fall 2016 research seminar class, Special Topics in
-Computer Systems: Programming Models for Distributed Computing at Northeastern
-University.
+This is the repo for the fall 2016 research seminar class, [Special Topics in
+Computer Systems: Programming Models for Distributed
+Computing](http://heather.miller.am/teaching/cs7680) at Northeastern University.
 
 To submit your weekly writeup, add a markdown file to the corresponding week's
 directory named as follows: `LASTNAME-Firstname-short_paper_title.md`
